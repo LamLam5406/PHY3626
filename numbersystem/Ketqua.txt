@@ -1,0 +1,23 @@
+--- Number System Conversion Output ---
+Student: NguyenVanA, ID: 123456
+---------------------------------------
+
+Starting Number Conversion Tests:
+
+Original number: 304(10)
+000011001(2)
+064(8)
+--------------------
+
+Original number: 335(10)
+111100101(2)
+715(8)
+--------------------
+
+Original number: 924(10)
+0011100111(2)
+4361(8)
+--------------------
+
+Number Conversion Tests Completed.
+Output saved to: NguyenVanA_123456_NumberSystemConverter.txt
