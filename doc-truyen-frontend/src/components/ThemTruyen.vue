@@ -19,7 +19,7 @@ export default {
   name: 'ThemTruyen',
   methods: {
     themTruyen() {
-      axios.post('http://localhost:3000/api/truyen', {
+      axios.post('${API_BASE}/truyen', {
         ten: 'One Piece',
         tacGia: 'Oda'
       })

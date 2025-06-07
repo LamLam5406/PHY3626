@@ -21,7 +21,7 @@ export default {
   },
   mounted() {
     // Gọi API khi component hiển thị
-    axios.get('http://localhost:3000/api/truyen')
+    axios.get('${API_BASE}/truyen')
       .then(res => {
         this.danhSachTruyen = res.data;
       })
